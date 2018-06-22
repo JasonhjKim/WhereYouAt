@@ -43,6 +43,7 @@ connection.connect(function(err){
 })
 
 //SERVER Setup
+=======
 app.listen(port, function(req, res) {
 	console.log('Server is listening on... ' + port);
 })
