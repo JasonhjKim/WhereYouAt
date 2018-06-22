@@ -24,7 +24,7 @@ export default class App extends Component {
             display: flex;
             flex-direction: column;
             justify-content: center;
-            align-items: center;
+            align-items: flex-start;
         `
         return(
             <Container className="App">
